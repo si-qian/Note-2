@@ -7,8 +7,12 @@
         "id": "f52f0fbb42d3b010",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Markdown.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -49,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "14a2180b8fbdde04",
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,9 +90,9 @@
   },
   "active": "f52f0fbb42d3b010",
   "lastOpenFiles": [
-    "Git.md",
-    "linux.md",
     "Markdown.md",
+    "linux.md",
+    "Git.md",
     "README.md",
     "正则表达式.md"
   ]

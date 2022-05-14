@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "37a5e07c0eabb846",
+        "id": "f52f0fbb42d3b010",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Git.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +82,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "37a5e07c0eabb846",
+  "active": "f52f0fbb42d3b010",
   "lastOpenFiles": [
     "Git.md",
     "linux.md",

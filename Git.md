@@ -16,11 +16,10 @@
 - git init	初始化仓库
 - git add *.c	暂存
 - git commit -m "messages"	提交
-- git checkout -- *.c	撤销修改
-- git restore *.c	撤销修改
-- git reset HEAD *.c	撤销暂存
-- git reset --hard HEAD~2(回退到上上版本)	版本回退	
-- git reset --hard commit_id(回到该版本号)	版本重回
+- git restore *.c	撤销工作区的修改
+- git restore --staged *.c 从暂存区撤销修改
+- git reset --hard HEAD~2 （回退到上上版本）版本回退	
+- git reset --hard commit_id （回到该版本号）版本重回
 - git log	查看提交历史
 - git reflog	查看命令历史
 - git status	检查文件状态

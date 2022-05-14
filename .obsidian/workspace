@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git.md",
-            "mode": "preview",
+            "file": "软件清单-Windows10.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
+                "file": "软件清单-Windows10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "b8413bd8192b87c9",
   "lastOpenFiles": [
+    "软件清单-Windows10.md",
     "Git.md",
     "linux.md",
     "Markdown.md",

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "软件清单-Windows10.md",
+            "file": "Git.md",
             "mode": "source",
             "source": false
           }
@@ -48,6 +48,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "d0983c76eea14ad3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -69,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "软件清单-Windows10.md",
+                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,11 +96,11 @@
   },
   "active": "b8413bd8192b87c9",
   "lastOpenFiles": [
-    "软件清单-Windows10.md",
     "Git.md",
     "linux.md",
     "Markdown.md",
     "README.md",
-    "正则表达式.md"
+    "正则表达式.md",
+    "软件清单-Windows10.md"
   ]
 }
